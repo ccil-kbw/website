@@ -1,7 +1,8 @@
 ---
-title: Don Give Point
+title: Donation avec Give Point
 date: 2022-07-17 07:09:30 +0000
 tags: [donations]
+categories: [Donations]
 author: djamel_r
 ---
 

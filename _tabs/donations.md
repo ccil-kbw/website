@@ -1,6 +1,6 @@
 ---
 title: Donations
-icon: fas fa-stream
+icon: fas fa-leaf
 order: 1
 ---
 
@@ -8,7 +8,7 @@ order: 1
 
 ### Pourquoi faire un don?
 
-Nous implorons Allah de lever sur nous et sur l’humanité entière cette pandémie. 
+Nous implorons Allah de lever sur nous et sur l’humanité entière cette pandémie.
 Mes frères et sœurs, vous savez que les maisons d’Allah sont prises en charge par vos donations et c’est par la grâce d’Allah et votre générosité que ces centres  ont vu le jour et continuent d’accomplir leur mission.
 Ces temps difficiles que nous vivons sont une belle opportunité pour nous tous de donner encore plus.
 Soyons généreux. Qu’Allah nous le rendra et nous couvrira de sa miséricorde ici-bas et dans l’au-delà.
