@@ -4,6 +4,10 @@ date: 2022-07-17 06:40:20 +0000
 tags: [donations]
 categories: [Donations]
 author: djamel_r
+image:
+  path: /assets/img/donations/interac-td/interac.png
+  width: 1000
+  height: 400
 ---
 
 Bonjour, voici les étapes pour faire un don avec Via Interac. Si vous voulez utiliser d’autres plateformes, aller sur cette page: https://www.ccil-kbw.github.io/donations/
