@@ -11,6 +11,17 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 
 /* append your custom style below */
 
+/*
 #main-wrapper {
   background: center/cover url("/assets/img/bg/mosque_8fcec6.png") no-repeat;
 }
+
+#sidebar {
+  background: center/cover url("/assets/img/bg/mosque_8fcec6.png") no-repeat;
+}
+
+#sidebar {
+  background: center/cover url("/assets/img/bg/minaret_1_opacity_40.png");
+}
+
+*/
