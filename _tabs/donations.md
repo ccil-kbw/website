@@ -6,6 +6,9 @@ order: 1
 
 ## Faites un Don
 
+> [Lien Paypal](https://www.paypal.com/donate?hosted_button_id=9JQDAFHJQEY72)
+{: .prompt-info }
+
 ### Pourquoi faire un don?
 
 Nous implorons Allah de lever sur nous et sur l’humanité entière cette pandémie.
@@ -14,18 +17,18 @@ Ces temps difficiles que nous vivons sont une belle opportunité pour nous tous 
 Soyons généreux. Qu’Allah nous le rendra et nous couvrira de sa miséricorde ici-bas et dans l’au-delà.
 Amine
 
-De plus, ce don est considéré comme sadaka jaryia (aumone durable) qui continue a travailler pour nous même après notre mort car comme le dit notre bien aimé prophète Muhammad (3alayhi salat wa salam):
+De plus, ce don est considéré comme sadaka jaryia (aumône durable) qui continue à travailler pour nous même après notre mort, car comme le dit notre bien aimé prophète Muhammad (3alayhi salat wa salam) :
 
-**«Lorsque la personne décède, ses actes s’intérrompent sauf de trois sortes: Une aumône durable, une science dont on profite et un enfant vertueux qui invoque en sa faveur»** (Rapporté par muslim, abu dawud attirmidhi et al Nasa i)
+**« Lorsque la personne décède, ses actes s’interrompent sauf de trois sortes : Une aumône durable, une science dont on profite et un enfant vertueux qui invoque en sa faveur»** (Rapporté par muslim, abu dawud attirmidhi et al Nasa i)
 
 De plus, Allah dit dans le noble Coran :
 
-**« Ceux qui dépensent leurs bien dans le sentier d’Allah, ressemblent à un grain d’où naissent sept épis, à cent grains l’épi. Car Allah multiplie la récompense à qui il veut et la grâce d’Allah est immense, et Il est Omniscient»** [(2:261)](https://quran.com/2/261)
+**« Ceux qui dépensent leurs bien dans le sentier d’Allah, ressemblent à un grain d’où naissent sept épis, à cent grains l’épi. Car Allah multiplie la récompense à qui il veut et la grâce d’Allah est immense, et Il est Omniscient »** [(2:261)](https://quran.com/2/261)
 
 **Quiconque fait à Dieu un prêt sincère, Dieu le lui multiplie, et il aura une généreuse récompense. »** [(57:11)](https://quran.com/57/11)
 
 
-### Comment faire un don?
+### Comment faire un don ?
 
 Vos dons peuvent aller à trois volets : Soit pour la finalisation de la construction du nouveau centre, soit pour la zakat et la Sadaqa, soit pour les opérations et charges régulières du centre.
 
