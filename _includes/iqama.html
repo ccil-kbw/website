@@ -1,28 +1,2 @@
-<script>
-  // https://stackoverflow.com/a/35970894/3431636
-  function getJSON(url, callback) {
-    let xhr = new XMLHttpRequest()
-    xhr.open("GET", url, true)
-    xhr.responseType = "json"
-    xhr.onload = function() {
-      let status = xhr.status;
-      if (status === 200) {
-        callback(null, xhr.response);
-      } else {
-        callback(status, xhr.response);
-      }
-    };
-    xhr.send()
-  }
-
-  function iqama() {
-    getJSON("https://iqama.ccil-kbw.com/iqamatimes.php", function (err, data) {
-      if (err !== null) {
-        console.log("Something went wrong in loading the Iqama.")
-      } else {
-        console.log(data)
-      }
-    })
-  }
-</script>
+<script type="text/javascript" src="/assets/js/iqama.js" ></script>
 <img src="https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/299423333_2940752532884335_1492921198475191248_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=-MSGzQD9iq0AX98MySy&_nc_ht=scontent-lga3-1.xx&oh=00_AT_UcI1yPMaTiwz4pAog5ZLDv4P_NJsN9r42ljB_1SYdwA&oe=633F366A" onload="iqama()" />
