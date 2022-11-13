@@ -1,0 +1,21 @@
+#ul_times ul {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+#ul_times ul li {
+    flex: 0 0 25%;
+    padding-left: 1em;
+    display: flex;
+    align-items: flex-end;
+}
+
+#ul_times ul.prayertimeul li:not(:last-child) {
+    background-color: aliceblue;
+}
+
+#ul_times ul:not(.prayertimeul) li {
+    background-color: green;
+}
