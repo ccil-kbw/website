@@ -49,8 +49,8 @@ function appendChangingTime(changingTimes) {
 }
 
 function iqama() {
-  const url = "http://localhost:9191/"
-  // const url = "https://iqama.ccil-kbw.com/iqamatimes.php"
+  // const url = "http://localhost:9191/"
+  const url = "https:iqama.ccil-kbw.com/iqamatimes.php"
   getJSON(url, function(err, data) {
     if (err !== null) {
       console.log("Something went wrong in loading the Iqama.")
