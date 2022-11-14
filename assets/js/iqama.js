@@ -44,12 +44,12 @@ function appendChangingTime(changingTimes) {
   for (const [key, value] of Object.entries(changingTimes)) {
     const tomorrowsIqamaLI = document.getElementById(key).getElementsByTagName("li")[3]
     tomorrowsIqamaLI.textContent = value
-    tomorrowsIqamaLI.style = "background-color: red;"
+    tomorrowsIqamaLI.style = "background-color: #8FCEC6;"
   }
 }
 
 function iqama() {
-  // const url = "http://localhost:9191/"
+  // On firefox install CORS everywhere addon to work locally
   const url = "https://iqama.ccil-kbw.com/iqamatimes.php"
   getJSON(url, function(err, data) {
     if (err !== null) {
