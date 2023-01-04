@@ -38,10 +38,6 @@ Vous avez Cinq moyens faciles pour faire un don :
 
 Pour donner via interac, sélectionner l’option Virement interac via votre institution financière, voici un exemple de la banque TD.: [Don Interac TD](/posts/donation-avec-interac-td)
 
-#### Par Give Point
-
-Suivre les instructions sur cette page pour donner via la plateforme Give Point: [Don Give Point](/posts/donation-avec-give-point)
-
 #### Paypal
 
 Vous avez une carte de crédit ou un compte Paypal? Faites un don instantané!
