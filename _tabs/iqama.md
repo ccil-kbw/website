@@ -4,7 +4,12 @@ icon: fas fa-clock
 order: 1
 ---
 
-To see the Iqama times at the Masjid, [click here](https://iqama.ccil-kbw.com)
+Pour voir les heures d'Iqama: [https://iqama.ccil-kbw.com](https://iqama.ccil-kbw.com)
+
+# Calendrier
+
+- [Format PDF](/assets/2023/calendar.pdf)
+
 
 # Jumua'a times
 
