@@ -6,9 +6,9 @@ order: 1
 
 Pour voir les heures d'Iqama: [https://iqama.ccil-kbw.com](https://iqama.ccil-kbw.com)
 
-# Calendrier
+<!-- # Calendrier -->
 
-- [Format PDF](/assets/2023/calendar.pdf)
+<!-- - [Format PDF](/assets/2023/calendar.pdf) -->
 
 
 # Jumua'a times
