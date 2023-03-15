@@ -5,13 +5,16 @@ tags: [École]
 categories: [École]
 ---
 
-> Repost, lien original: [PDF](/assets/pdf/concours_ramadhan_2023.pdf)
-{: .prompt-danger}
+## Concours Tajweed et mémorisation du Coran
+
+Text follows
+
+<embed src="/assets/pdf/concours_ramadhan_2023.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="600px" />
+
 
 > Pour plus d'info: École Iqra'a School, iqraaramadan2023@gmail.com
 {: .prompt-info}
 
-## Concours Tajweed et mémorisation du Coran
 
 ### Dates et lieux des concours
 
