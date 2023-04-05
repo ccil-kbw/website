@@ -1,5 +1,5 @@
 ---
-title: Donations
+title: Faites un Don
 icon: fas fa-leaf
 order: 1
 ---
