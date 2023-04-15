@@ -1,8 +1,8 @@
 ---
 title: Navette Écoles Secondaires Jumuaa
 date: 2023-04-14 20:27:00
-tags: [annonces, École]
-categories: [annonces, École]
+tags: [Annonce, Masjid, École]
+categories: [Annonce]
 ---
 
 Le Centre Culturel Islamique de Laval Khalid Bin Walid offre un service gratuit de Navette pour assisster au Sermont du Vendredi.

@@ -1,8 +1,8 @@
 ---
 title: Levée de Fonds 08 Avril
 date: 2023-04-14 14:00:00
-tags: [annonces, donations]
-categories: [annonces, donations]
+tags: [Annonce, Donations]
+categories: [Annonce]
 ---
 
 > Levée de fonds à 21h le 08 Avril au 1330 Rue Antonio

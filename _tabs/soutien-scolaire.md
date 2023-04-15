@@ -2,6 +2,8 @@
 title: Soutien Scolaire
 icon: fas fa-school
 order: 1
+tags: [Annonce, École]
+categories: [Annonce]
 ---
 
 
