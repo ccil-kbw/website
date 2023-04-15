@@ -1,7 +1,7 @@
 ---
 title: Donation avec Interac (TD)
 date: 2022-07-17 06:40:20 +0000
-tags: [donations]
+tags: [Donations]
 categories: [Donations]
 author: djamel_r
 image:

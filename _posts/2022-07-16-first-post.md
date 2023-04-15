@@ -1,9 +1,9 @@
 ---
 title: Website Migration
 date: 2022-07-16 18:34:00 +0000
-tags: [website, news]
+tags: [Annonce]
 author: fares_b
-categories: [Blog]
+categories: [Annonce]
 ---
 
  This is the beginning of the new Website for Centre Culturel Islamique de Laval Khalid Bin Walid.
