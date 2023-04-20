@@ -14,3 +14,6 @@ Pour reçevoir le service de navette, il faut simplement remplir et nous retourn
 - [PDF École St-Maxime](/assets/pdf/lettre_navette_maxime.pdf)
 - [PDF École St-Martin](/assets/pdf/lettre_navette_martin.pdf)
 - [PDF École Internationale](/assets/pdf/lettre_navette_internationale.pdf)
+
+
+{% include comments.html %}
