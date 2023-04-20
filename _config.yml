@@ -104,7 +104,7 @@ comments:
     repo_id:          R_kgDOHfcZIg
     category:         Announcements
     category_id:      DIC_kwDOHfcZIs4CV69R
-    mapping:          # optional, default to 'pathname'
+    mapping:          url
     input_position:   # optional, default to 'bottom'
     lang:             # optional, default to the value of `site.lang`
 
