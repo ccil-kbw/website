@@ -50,7 +50,7 @@ function appendChangingTime(changingTimes) {
 
 function iqama() {
   // On firefox install CORS everywhere addon to work locally
-  const url = "https://iqama.ccil-kbw.com/iqamatimes.php"
+  const url = "https://iqama-proxy.ops.seraf.dev/today"
   getJSON(url, function(err, data) {
     if (err !== null) {
       console.log("Something went wrong in loading the Iqama.")
