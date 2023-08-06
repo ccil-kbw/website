@@ -28,8 +28,8 @@ function appendTimes(key, value) {
 
   const ul = document.createElement("ul")
   ul.appendChild(prayerName)
-  ul.appendChild(todaysIqama)
   ul.appendChild(todaysAdhan)
+  ul.appendChild(todaysIqama)
   ul.appendChild(tomorrowsIqamaPlaceHoler)
   ul.id = key
   ul.classList = ["prayertimeul"]
