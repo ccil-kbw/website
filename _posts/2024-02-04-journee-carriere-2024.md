@@ -24,3 +24,5 @@ Lien d’inscription : [l.facebook.com](https://l.facebook.com/l.php?u=https%3A%
 Pour toutes questions, veuillez communiquer avec nous à l'adresse suivante : event.ccil@hotmail.com
 
 Au plaisir!
+
+![img.png](/assets/img/journee-carriere/affiche-2024.png)
