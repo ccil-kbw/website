@@ -1,0 +1,28 @@
+#ul_times ul {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+#ul_times ul:not(:last-child) {
+    margin-bottom: 0;
+}
+
+#ul_times ul li {
+    flex: 0 0 15%;
+    padding-left: 1em;
+    display: flex;
+    align-items: flex-end;
+}
+
+#ul_times ul li:not(:last-child) {
+    border-right: 1px solid black;
+}
+#ul_times ul.prayertimeul li:not(:last-child) {
+    background-color: #C0E2B0;
+}
+
+#ul_times ul:not(.prayertimeul) li {
+    background-color: #5E824A;
+}
